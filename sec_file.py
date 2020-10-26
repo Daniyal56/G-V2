@@ -12,8 +12,8 @@ proforma_temp = os.listdir("C:/Users/Danyal/Desktop/Garibsons Setup for server/G
 other_doc = os.listdir("C:/Users/Danyal/Desktop/Garibsons Setup for server/Garibson New Version 2.0 -Streamlit/Other Documents/")
 #Title
 favicon = "logo.png"
-st.beta_set_page_config(page_title='Garibsons Pvt. Ltd.', layout = 'centered', page_icon = favicon, initial_sidebar_state = 'collapsed') #page_icon = favicon,
-st.title("Garibsons Pvt. Ltd.")
+#st.beta_set_page_config(page_title='Garibsons Pvt. Ltd.', layout = 'centered', page_icon = favicon, initial_sidebar_state = 'collapsed') #page_icon = favicon,
+st.title("Demo")
 st.text("Version 2.0")
 # Defining Directories
 CLIENT_FOLDER = 'C:/Users/Danyal/Desktop/Garibsons Setup for server/Garibson Web App/'
